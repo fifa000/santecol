@@ -1,2 +1,2 @@
-# maquette_santeCol_complete.html
+# maquette santeCol.html
 Projet MADE
